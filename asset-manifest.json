@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/naveennekkanti1/BajajFrontend/static/css/main.6f21e264.css",
+    "main.js": "/naveennekkanti1/BajajFrontend/static/js/main.1b67a7d0.js",
+    "static/js/453.c9a9d411.chunk.js": "/naveennekkanti1/BajajFrontend/static/js/453.c9a9d411.chunk.js",
+    "index.html": "/naveennekkanti1/BajajFrontend/index.html",
+    "main.6f21e264.css.map": "/naveennekkanti1/BajajFrontend/static/css/main.6f21e264.css.map",
+    "main.1b67a7d0.js.map": "/naveennekkanti1/BajajFrontend/static/js/main.1b67a7d0.js.map",
+    "453.c9a9d411.chunk.js.map": "/naveennekkanti1/BajajFrontend/static/js/453.c9a9d411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f21e264.css",
+    "static/js/main.1b67a7d0.js"
+  ]
+}
